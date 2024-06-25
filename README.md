@@ -7,9 +7,9 @@ A detailed Jupyter Notebook offering a comprehensive analysis of the diabetes da
  including data preprocessing, visualization, and predictive model evaluation. <br>
 
 Steps:
-Data Cleaning and Preprocessing: Essential steps to prepare the data for analysis.
-Exploratory Data Analysis: In-depth analysis with visualizations to understand data patterns and relationships.
+Data Cleaning and Preprocessing: Essential steps to prepare the data for analysis.<br>
+Exploratory Data Analysis: In-depth analysis with visualizations to understand data patterns and relationships.<br>
 
-Jupyter Notebook
-Python
+Jupyter Notebook <br>
+Python  <br>
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
